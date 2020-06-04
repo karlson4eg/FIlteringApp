@@ -4,6 +4,11 @@
 # Log file
 *.log
 
+#IntelliJ stuff
+.DS_Store
+.idea
+
+
 # BlueJ files
 *.ctxt
 
